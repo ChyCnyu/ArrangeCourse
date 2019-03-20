@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="merit@localhost" uuid="7a5c01cc-216f-4021-9c97-6be24e5b30e2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:merit</introspection-schemas>
+    </data-source>
+    <data-source name="sessionFactory/Hibernate" uuid="24d05c52-6257-4aab-b04e-91b9e51eb778">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:merit</introspection-schemas>
+    </data-source>
+    <data-source name="dataSource" uuid="d924ee80-8fe0-4918-a2e6-9f259c0d7d8a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:merit</introspection-schemas>
+    </data-source>
+  </component>
+</project>

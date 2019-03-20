@@ -1,0 +1,24 @@
+GET http://localhost:8080/api/user/info'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-05T114201.500.html
+
+###
+
+GET http://localhost:8080/api/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-05T114157.500.html
+
+###
+
+GET http://localhost:8080/api
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-05T114121.500.html
+
+###
+
